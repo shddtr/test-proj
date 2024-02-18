@@ -1,4 +1,7 @@
 # test-proj
+
+このプロジェクトはxxxです。
+
 ## feature a
 feature aは、xxxをyyyするための機能です。
 
